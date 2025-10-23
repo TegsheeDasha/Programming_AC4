@@ -1,0 +1,15 @@
+/Users/tegsheedashjagdag/Desktop/Preactica_Dasha/programming_AC4.cs/obj/Debug/net9.0/programming_AC4.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tegsheedashjagdag/Desktop/Preactica_Dasha/programming_AC4.cs/obj/Debug/net9.0/programming_AC4.cs.AssemblyInfoInputs.cache
+/Users/tegsheedashjagdag/Desktop/Preactica_Dasha/programming_AC4.cs/obj/Debug/net9.0/programming_AC4.cs.AssemblyInfo.cs
+/Users/tegsheedashjagdag/Desktop/Preactica_Dasha/programming_AC4.cs/obj/Debug/net9.0/programming_AC4.cs.csproj.CoreCompileInputs.cache
+/Users/tegsheedashjagdag/Desktop/Preactica_Dasha/programming_AC4.cs/obj/Debug/net9.0/programming_AC4.cs.sourcelink.json
+/Users/tegsheedashjagdag/Desktop/Preactica_Dasha/programming_AC4.cs/bin/Debug/net9.0/programming_AC4.cs
+/Users/tegsheedashjagdag/Desktop/Preactica_Dasha/programming_AC4.cs/bin/Debug/net9.0/programming_AC4.cs.deps.json
+/Users/tegsheedashjagdag/Desktop/Preactica_Dasha/programming_AC4.cs/bin/Debug/net9.0/programming_AC4.cs.runtimeconfig.json
+/Users/tegsheedashjagdag/Desktop/Preactica_Dasha/programming_AC4.cs/bin/Debug/net9.0/programming_AC4.cs.dll
+/Users/tegsheedashjagdag/Desktop/Preactica_Dasha/programming_AC4.cs/bin/Debug/net9.0/programming_AC4.cs.pdb
+/Users/tegsheedashjagdag/Desktop/Preactica_Dasha/programming_AC4.cs/obj/Debug/net9.0/programming_AC4.cs.dll
+/Users/tegsheedashjagdag/Desktop/Preactica_Dasha/programming_AC4.cs/obj/Debug/net9.0/refint/programming_AC4.cs.dll
+/Users/tegsheedashjagdag/Desktop/Preactica_Dasha/programming_AC4.cs/obj/Debug/net9.0/programming_AC4.cs.pdb
+/Users/tegsheedashjagdag/Desktop/Preactica_Dasha/programming_AC4.cs/obj/Debug/net9.0/programming_AC4.cs.genruntimeconfig.cache
+/Users/tegsheedashjagdag/Desktop/Preactica_Dasha/programming_AC4.cs/obj/Debug/net9.0/ref/programming_AC4.cs.dll
